@@ -1,0 +1,3 @@
+[submodule "app/public/wp-content/themes/gpj1"]
+	path = app/public/wp-content/themes/gpj1
+	url = git@github.com:AnastasiaT14/group_site2.git
