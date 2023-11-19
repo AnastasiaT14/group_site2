@@ -1,0 +1,369 @@
+[18-Nov-2023 13:59:13 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "Secondary", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 53
+[18-Nov-2023 13:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\User\Local Sites\group-site\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[18-Nov-2023 13:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\User\Local Sites\group-site\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[18-Nov-2023 14:01:14 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "Secondary", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 53
+[18-Nov-2023 14:03:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "Secondary", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 53
+[18-Nov-2023 14:04:44 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "Secondary", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 53
+[18-Nov-2023 14:04:46 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "Secondary", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 53
+[18-Nov-2023 14:04:46 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "Secondary", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 53
+[18-Nov-2023 14:05:38 UTC] PHP Parse error:  syntax error, unexpected string content "get_template_directory_uri(). ...", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 181
+[18-Nov-2023 14:05:38 UTC] PHP Parse error:  syntax error, unexpected string content "get_template_directory_uri(). ...", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 181
+[18-Nov-2023 14:05:38 UTC] PHP Parse error:  syntax error, unexpected string content "get_template_directory_uri(). ...", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 181
+[18-Nov-2023 14:05:39 UTC] PHP Parse error:  syntax error, unexpected string content "get_template_directory_uri(). ...", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 181
+[18-Nov-2023 14:05:39 UTC] PHP Parse error:  syntax error, unexpected string content "get_template_directory_uri(). ...", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 181
+[18-Nov-2023 14:05:39 UTC] PHP Parse error:  syntax error, unexpected string content "get_template_directory_uri(). ...", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 181
+[18-Nov-2023 14:05:39 UTC] PHP Parse error:  syntax error, unexpected string content "get_template_directory_uri(). ...", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 181
+[18-Nov-2023 14:05:39 UTC] PHP Parse error:  syntax error, unexpected string content "get_template_directory_uri(). ...", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\functions.php on line 181
+[18-Nov-2023 14:37:15 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 8
+[18-Nov-2023 14:57:32 UTC] PHP Warning:  Undefined variable $cards in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 14:57:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 15:00:08 UTC] PHP Warning:  Undefined variable $cards in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 15:00:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 15:00:08 UTC] PHP Warning:  Undefined variable $cards in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 15:00:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 15:00:09 UTC] PHP Warning:  Undefined variable $cards in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 15:00:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 15:00:09 UTC] PHP Warning:  Undefined variable $cards in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 15:00:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 20
+[18-Nov-2023 18:25:21 UTC] PHP Parse error:  syntax error, unexpected token "as", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 57
+[18-Nov-2023 18:25:47 UTC] PHP Warning:  require(vcards.php): Failed to open stream: No such file or directory in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 18:25:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vcards.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php:5
+Stack trace:
+#0 C:\Users\User\Local Sites\group-site\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\User\Local Sites\group-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\group-site\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#3 {main}
+  thrown in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 18:26:12 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\ver-cards.php on line 22
+[18-Nov-2023 18:26:12 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\ver-cards.php on line 22
+[18-Nov-2023 22:08:27 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 9
+[18-Nov-2023 22:09:24 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 9
+[18-Nov-2023 22:09:24 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 9
+[18-Nov-2023 22:09:25 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 9
+[18-Nov-2023 22:09:26 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 9
+[18-Nov-2023 22:09:26 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 9
+[18-Nov-2023 22:10:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:10:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:10:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:10:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:11:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:11:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:11:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:11:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:13:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:13:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:13:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:13:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:28:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:28:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:28:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:28:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:28:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:28:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:28:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:28:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:28:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:28:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:28:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:28:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:29:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:29:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:29:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:29:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:30:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:30:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:30:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:30:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:30:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:30:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:30:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:30:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:30:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:30:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:30:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:30:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:31:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:31:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:31:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:31:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:31:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:31:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:31:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:31:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:31:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:31:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:31:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:31:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:31:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:31:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:31:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:31:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[18-Nov-2023 22:51:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[18-Nov-2023 22:51:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[18-Nov-2023 22:51:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[18-Nov-2023 22:51:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 09:31:48 UTC] PHP Parse error:  syntax error, unexpected string content "/assets/Rectangle 32.png?>" al..." in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 87
+[19-Nov-2023 09:32:05 UTC] PHP Parse error:  syntax error, unexpected string content "/assets/images/Rectangle 32.pn..." in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 87
+[19-Nov-2023 09:32:05 UTC] PHP Parse error:  syntax error, unexpected string content "/assets/images/Rectangle 32.pn..." in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 87
+[19-Nov-2023 09:32:05 UTC] PHP Parse error:  syntax error, unexpected string content "/assets/images/Rectangle 32.pn..." in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 87
+[19-Nov-2023 09:32:08 UTC] PHP Parse error:  syntax error, unexpected string content "/assets/images/Rectangle 32.pn..." in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 87
+[19-Nov-2023 09:32:10 UTC] PHP Parse error:  syntax error, unexpected string content "/assets/images/Rectangle 32.pn..." in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 87
+[19-Nov-2023 09:33:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 09:33:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 09:33:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 09:33:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 09:36:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 09:36:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 09:36:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 09:36:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 09:44:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 09:44:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 09:44:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 09:44:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 09:49:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 09:49:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 09:49:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 09:49:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 09:52:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 09:52:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 09:52:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 09:52:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 09:52:50 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 09:52:50 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 09:52:50 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 09:52:50 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 09:53:47 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 09:53:47 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 09:53:47 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 09:53:47 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 09:53:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 09:53:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 09:53:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 09:53:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 09:57:27 UTC] PHP Warning:  Undefined variable $hero_background in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 25
+[19-Nov-2023 09:57:27 UTC] PHP Warning:  Undefined variable $hero_title in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 29
+[19-Nov-2023 09:57:27 UTC] PHP Warning:  Undefined variable $hero_description in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 30
+[19-Nov-2023 09:57:27 UTC] PHP Warning:  Undefined variable $button in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 09:58:31 UTC] PHP Warning:  Undefined variable $hero_background in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 25
+[19-Nov-2023 09:58:31 UTC] PHP Warning:  Undefined variable $hero_title in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 29
+[19-Nov-2023 09:58:31 UTC] PHP Warning:  Undefined variable $hero_description in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 30
+[19-Nov-2023 09:58:31 UTC] PHP Warning:  Undefined variable $button in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 09:58:32 UTC] PHP Warning:  Undefined variable $hero_background in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 25
+[19-Nov-2023 09:58:32 UTC] PHP Warning:  Undefined variable $hero_title in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 29
+[19-Nov-2023 09:58:32 UTC] PHP Warning:  Undefined variable $hero_description in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 30
+[19-Nov-2023 09:58:32 UTC] PHP Warning:  Undefined variable $button in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 09:58:32 UTC] PHP Warning:  Undefined variable $hero_background in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 25
+[19-Nov-2023 09:58:32 UTC] PHP Warning:  Undefined variable $hero_title in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 29
+[19-Nov-2023 09:58:32 UTC] PHP Warning:  Undefined variable $hero_description in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 30
+[19-Nov-2023 09:58:32 UTC] PHP Warning:  Undefined variable $button in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 09:59:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 09:59:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 09:59:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 09:59:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 10:03:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 10:03:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 10:03:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 10:03:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 10:03:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 10:03:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 10:03:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 10:03:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 10:20:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 10:20:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 10:20:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 10:20:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 10:21:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 10:21:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 10:21:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 10:21:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 10:33:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 10:33:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 10:33:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 10:33:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 10:34:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 10:34:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 10:34:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 10:34:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 10:34:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 10:34:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 10:34:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 10:34:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 12:52:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 12:52:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 12:52:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 12:52:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 12:52:45 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 12:52:45 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 12:52:45 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 12:52:45 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 12:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 12:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 12:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 12:54:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 12:55:26 UTC] First section is not an array
+[19-Nov-2023 13:00:15 UTC] First section is not an array
+[19-Nov-2023 13:00:15 UTC] Second section is not an array
+[19-Nov-2023 13:03:41 UTC] PHP Fatal error:  Uncaught TypeError: sizeof(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php:3
+Stack trace:
+#0 C:\Users\User\Local Sites\group-site\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\User\Local Sites\group-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\group-site\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#3 {main}
+  thrown in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 13:03:43 UTC] PHP Fatal error:  Uncaught TypeError: sizeof(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php:3
+Stack trace:
+#0 C:\Users\User\Local Sites\group-site\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\User\Local Sites\group-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\group-site\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#3 {main}
+  thrown in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 13:03:43 UTC] PHP Fatal error:  Uncaught TypeError: sizeof(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php:3
+Stack trace:
+#0 C:\Users\User\Local Sites\group-site\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\User\Local Sites\group-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\group-site\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#3 {main}
+  thrown in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 13:04:15 UTC] PHP Fatal error:  Uncaught TypeError: sizeof(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php:3
+Stack trace:
+#0 C:\Users\User\Local Sites\group-site\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\User\Local Sites\group-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\group-site\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#3 {main}
+  thrown in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 3
+[19-Nov-2023 13:06:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:06:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:06:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:06:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:08:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:08:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:08:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:08:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:08:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:08:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:08:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:08:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:08:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:11:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:11:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:11:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:11:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:12:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:12:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:12:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:12:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:14:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:14:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:14:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:14:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:14:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:14:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:14:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:14:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 13:14:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 13:14:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 13:14:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 13:14:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:06:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:08:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:08:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:08:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:08:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:08:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:08:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:08:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:08:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:09:20 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:09:20 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:09:20 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:09:20 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:11:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:11:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:11:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:11:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:13:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:13:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:13:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:13:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 15:14:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 4
+[19-Nov-2023 15:14:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 5
+[19-Nov-2023 15:14:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 6
+[19-Nov-2023 15:14:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 7
+[19-Nov-2023 18:39:49 UTC] PHP Warning:  Undefined array key "h2" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 18:39:49 UTC] PHP Warning:  Undefined array key "p" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 33
+[19-Nov-2023 18:39:49 UTC] PHP Warning:  Undefined array key "h2" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 18:39:49 UTC] PHP Warning:  Undefined array key "p" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 33
+[19-Nov-2023 18:39:49 UTC] PHP Warning:  Undefined array key "h2" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 18:39:49 UTC] PHP Warning:  Undefined array key "p" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 33
+[19-Nov-2023 19:00:32 UTC] PHP Warning:  Undefined array key "h2" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 19:00:32 UTC] PHP Warning:  Undefined array key "p" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 33
+[19-Nov-2023 19:00:32 UTC] PHP Warning:  Undefined array key "h2" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 19:00:32 UTC] PHP Warning:  Undefined array key "p" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 33
+[19-Nov-2023 19:00:32 UTC] PHP Warning:  Undefined array key "h2" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 32
+[19-Nov-2023 19:00:32 UTC] PHP Warning:  Undefined array key "p" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 33
+[19-Nov-2023 19:17:52 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "" alt="">", expecting "," or ";" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 105
+[19-Nov-2023 19:18:32 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "?>" alt="">", expecting "," or ";" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 105
+[19-Nov-2023 19:18:33 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "?>" alt="">", expecting "," or ";" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 105
+[19-Nov-2023 19:18:33 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "?>" alt="">", expecting "," or ";" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 105
+[19-Nov-2023 19:21:28 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "" alt="">", expecting "," or ";" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\front-page.php on line 105
+[19-Nov-2023 19:26:22 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:17 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:17 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:18 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:18 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:18 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:19 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:19 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:19 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:20 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
+[19-Nov-2023 19:27:20 UTC] PHP Parse error:  syntax error, unexpected identifier "png", expecting "]" in C:\Users\User\Local Sites\group-site\app\public\wp-content\themes\gpj1\home-cards.php on line 5
